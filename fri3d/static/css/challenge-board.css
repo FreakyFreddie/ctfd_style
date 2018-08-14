@@ -20,6 +20,7 @@
 }
 
 .challenge-button {
+    border: 1px solid #48fb47;
     box-shadow: 3px 3px 3px #48fb47;
     background-color: black;
     color: #48fb47;

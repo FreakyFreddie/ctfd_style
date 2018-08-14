@@ -135,4 +135,5 @@ table > thead > tr > td {
 .modal-content{
     background-color: black;
     color: #48fb47;
+    border: 1px solid #48fb47;
 }
