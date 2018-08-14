@@ -20,7 +20,9 @@
 }
 
 .challenge-button {
-    box-shadow: 3px 3px 3px grey;
+    box-shadow: 3px 3px 3px #48fb47;
+    background-color: black;
+    color: #48fb47;
 }
 
 .solved-challenge {

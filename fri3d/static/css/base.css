@@ -131,3 +131,8 @@ table > thead > tr > td {
 .cursor-help {
     cursor: help;
 }
+
+.modal-content{
+    background-color: black;
+    color: #48fb47;
+}
