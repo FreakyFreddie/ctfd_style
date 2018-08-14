@@ -12,11 +12,11 @@
 }
 
 .btn-info {
-    background-color: #5B7290 !important;
+    background-color: black !important;
 }
 
 .badge-info {
-    background-color: #5B7290 !important;
+    background-color: black !important;
 }
 
 .challenge-button {
@@ -24,7 +24,8 @@
 }
 
 .solved-challenge {
-    background-color: #37d63e !important;
+    background-color: #48fb47 !important;
+    color: black;
     opacity: 0.4;
     border: none;
 }

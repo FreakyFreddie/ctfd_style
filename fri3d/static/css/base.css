@@ -52,7 +52,7 @@ table > thead > tr > td {
     padding: 0.8em;
     border-radius: 0;
     background: #f0f0f0;
-    color: #aaa;
+    color: #48fb47;
     font-weight: 400;
     font-family: "Avenir Next", "Helvetica Neue", Helvetica, Arial, sans-serif;
     -webkit-appearance: none;
@@ -74,8 +74,8 @@ table > thead > tr > td {
 
 .btn-outlined.btn-theme {
     background: none;
-    color: #545454;
-    border-color: #545454;
+    color: #48fb47;
+    border-color: #48fb47;
     border: 3px solid;
 }
 
@@ -104,7 +104,7 @@ table > thead > tr > td {
 
 .btn-info {
     background-color: #5B7290 !important;
-    border-color: #5B7290 !important;
+    border-color: #48fb47 !important;
 }
 
 .badge-info {
