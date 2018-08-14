@@ -43,11 +43,11 @@ img {
     font-size: 24px;
     letter-spacing: -0.04rem;
     line-height: 15px;
-    color: #FFF;
+    color: #48fb47;
 }
 
 .navbar-inverse .navbar-nav > li > a {
-    color: #FFF !important;
+    color: #48fb47 !important;
 }
 
 .navbar li > a {
@@ -187,23 +187,24 @@ table{
 }
 
 .theme-background {
-    background-color: #545454 !important;
+    background-color: black !important;
 
 }
 
 .solved-challenge {
-    background-color: #8EDC9D !important;
+    background-color: #48fb47 !important;
+    color: black;
 }
 
 .panel-theme {
-    border-color: #545454;
+    border-color: #48fb47;
 }
 
 .panel-theme > .panel-heading {
-    border-color: #545454;
-    background-color: #545454;
+    border-color: #48fb47;
+    background-color: black;
     opacity: 1;
-    color: #FFF;
+    color: #48fb47;
     text-align: center;
 }
 
@@ -217,19 +218,19 @@ table{
 
 .btn-outlined.btn-theme:hover,
 .btn-outlined.btn-theme:active {
-    color: #FFF;
+    color: #48fb47;
     background: #545454;
-    border-color: #545454;
+    border-color: #48fb47;
 }
 
 .navbar-inverse {
-    background: none repeat scroll 0% 0% #545454;
+    background: none repeat scroll 0% 0% black;
     border: medium none;
     margin-bottom: 0px;
 }
 
 .jumbotron {
-    background-color: #545454;
+    background-color: black;
     color: #FFF;
     padding: 0px 0px 25px;
 }
@@ -283,8 +284,8 @@ table{
     width: 60%;
     border: none;
     border-radius: 0;
-    background: #f0f0f0;
-    color: #aaa;
+    background: #545454;
+    color: #48fb47;
     font-weight: 400;
     font-family: "Avenir Next", "Helvetica Neue", Helvetica, Arial, sans-serif;
     -webkit-appearance: none; /* for box shadows to show on iOS */
@@ -299,7 +300,7 @@ table{
     float: right;
     padding: 0 1em;
     width: 40%;
-    color: #6a7989;
+    color: #48fb47;
     font-weight: bold;
     font-size: 100%;
     -webkit-font-smoothing: antialiased;
@@ -334,7 +335,7 @@ table{
 
 .input-field {
     width: 100%;
-    background-color: #eee;
+    background-color: #545454;
     border: 2px solid transparent;
     -webkit-transition: background-color 0.3s, border-color 0.3s;
     transition: background-color 0.3s, border-color 0.3s;
@@ -351,7 +352,7 @@ table{
 }
 
 .label-content {
-    color: #8B8C8B;
+    color: #48fb47;
     padding: 0.25em 0;
     -webkit-transition: -webkit-transform 0.3s;
     transition: transform 0.3s;
@@ -365,7 +366,7 @@ table{
     left: 0;
     height: 100%;
     width: 100%;
-    color: #a3d39c;
+    color: #48fb47;
     padding: 0.25em 0;
     letter-spacing: 1px;
     font-size: 0.85em;
@@ -374,7 +375,7 @@ table{
 .input-field:focus + .input-field,
 .input--filled .input-field {
     background-color: transparent;
-    border-color: #a3d39c;
+    border-color: #48fb47;
 }
 
 .input--hide {
